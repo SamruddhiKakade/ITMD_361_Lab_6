@@ -9,6 +9,7 @@ body {
 }
 
 h1.title {
+  background-color: #000000;
   color: #C0C0C0;           
   text-align: center;
   padding: 15px 0;
