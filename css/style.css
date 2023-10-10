@@ -14,3 +14,9 @@ h1.title {
   padding: 15px 0;
   margin-bottom: 20px;
 }
+
+#planets th, #planets td {
+  border: 1px solid #C0C0C0;
+  padding: 10px 15px;
+  text-align: center;
+}
