@@ -9,11 +9,11 @@ body {
 }
 
 h1.title {
-  background-color: #000000;
   color: #C0C0C0;           
   text-align: center;
   padding: 15px 0;
   margin-bottom: 20px;
+  text-decoration: underline;
 }
 
 table#planets {
@@ -37,4 +37,8 @@ table#planets {
 .planet_image {
   max-width: 100px;
   border-radius: 15px;
+}
+
+#planets tr:hover {
+  background-color: #000080; 
 }
