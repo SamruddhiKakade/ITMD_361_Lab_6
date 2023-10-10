@@ -20,3 +20,10 @@ h1.title {
   padding: 10px 15px;
   text-align: center;
 }
+
+table#planets {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  background-color: #000000; 
+}
