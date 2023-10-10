@@ -27,3 +27,8 @@ table#planets {
   margin: 20px auto;
   background-color: #000000; 
 }
+
+.column_heading, .row_heading {
+  color: #C0C0C0;
+  font-weight: bold;
+}
