@@ -15,12 +15,6 @@ h1.title {
   margin-bottom: 20px;
 }
 
-#planets th, #planets td {
-  border: 1px solid #C0C0C0;
-  padding: 10px 15px;
-  text-align: center;
-}
-
 table#planets {
   width: 80%;
   border-collapse: collapse;
@@ -28,7 +22,18 @@ table#planets {
   background-color: #000000; 
 }
 
+#planets th, #planets td {
+  border: 1px solid #C0C0C0;
+  padding: 10px 15px;
+  text-align: center;
+}
+
 .column_heading, .row_heading {
   color: #C0C0C0;
   font-weight: bold;
+}
+
+.planet_image {
+  max-width: 100px;
+  border-radius: 15px;
 }
