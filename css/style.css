@@ -7,4 +7,10 @@ body {
   font-size: 16px;
   line-height: 1.5;
 }
-  
+
+h1.title {
+  color: #C0C0C0;           
+  text-align: center;
+  padding: 15px 0;
+  margin-bottom: 20px;
+}
