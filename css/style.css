@@ -29,6 +29,7 @@ table#planets {
   border-collapse: collapse;
 /*  border-spacing: 5px 2px; */
   margin: 20px auto;
+  background-color: #000000;
 /*  background-color: transparent; */
 }
 
