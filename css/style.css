@@ -20,7 +20,7 @@ h1.title {
   margin-bottom: 20px;
   text-decoration: underline;
   font-style: italic;
-  background: linear-gradient(to right, #000000, #C0C0C0);  
+  background: linear-gradient(to right, #000000, #ffffff);  
   color: transparent;  
   -webkit-background-clip: text;  
   background-clip: text;
