@@ -26,15 +26,15 @@ h1.title {
 
 table#planets {
   width: 80%;
-  border-collapse: separate;
-  border-spacing: 5px 2px;
+  border-collapse: collapse;
+/*  border-spacing: 5px 2px; */
   margin: 20px auto;
-  background-color: transparent; 
+/*  background-color: transparent; */
 }
 
 #planets th, #planets td {
   background-color: #000000;
-  border: none;
+  border: 3px solid #C0C0C0;
   padding: 8px;
   text-align: center;
 }
