@@ -46,6 +46,6 @@ table#planets {
   border-radius: 15px;
 }
 
-#planets td:hover {
+#planets tr:hover {
   background-color: #000080; 
 }
